@@ -1,1 +1,1 @@
-Sistema criado para apoiar os processos utilizado pelo time de QA's do Grupo Voalle.
+Sistema criado para apoiar os processos de trabalho realizados pelo time de QA's do Grupo Voalle.
